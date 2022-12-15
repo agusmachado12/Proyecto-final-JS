@@ -1,0 +1,80 @@
+/* Inicio */
+body{
+    background-color: lightblue;
+    
+    max-width: 1900px;
+}
+main{
+    margin: 50px 0px 100px 0px;
+    
+}
+
+footer{
+    background-color: #ffff;
+}
+
+/* Paletas */
+.col {
+    width: 80%;
+    margin: 0 auto;
+    padding: 50px;
+    border: 2px solid #ffffff;
+    justify-content: right;
+    background-color: #fff;
+    margin: 10px;
+    border-radius: 5px;
+   }
+    
+
+    .col h3 {
+      font-size: 30px; }
+
+    .col:hover {
+      background-color: #ecf0f1; }
+  
+  
+
+    
+  .btn-pagar{
+    width: 10px;
+    text-decoration: none;
+    
+  }
+
+  .carrito{
+    background-color: #fff;
+  }
+
+  .carrito h2 {
+    position: relative;
+    left: 45%;
+    width: 470px;
+    margin: 20px 5px 0px 5px;
+  }
+
+  #contenedorPaletas{
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  .carrito button {
+    position: relative;
+    left: 42%;
+  }
+
+  #total {
+    position: relative;
+    left: 40%;
+    margin-top: 5px;
+    width: 100px;
+  }
+
+  .btn-pagar{
+    color: #fff;
+  }
+
+
+  
+
+  
+   
